@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../biodata"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "biodata＿yani"
+	}
+}
